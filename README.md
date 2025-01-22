@@ -1,25 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manh Tuan</h1>
-<h3 align="center">A passionate Laravel developer</h3>
+<h3 align="center">A passionate Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cuibapn2014&label=Profile%20views&color=0e75b6&style=flat" alt="cuibapn2014" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuibapn2014" alt="cuibapn2014" /></a> </p>
 
-- 🔭 I’m currently working on [Sewing Workshop](https://github.com/cuibapn2014/MyProject)
-
-- 🌱 I’m currently learning **Laravel**
-
-- 👯 I’m looking to collaborate on [Clothes](https://github.com/cuibapn2014/tatshop)
-
-- 🤝 I’m looking for help with [Computer Store](https://github.com/cuibapn2014/WebPrograming)
-
 - 👨‍💻 All of my projects are available at [https://github.com/cuibapn2014](https://github.com/cuibapn2014)
 
-- 📝 I regularly write articles on [https://iamcoder.tech](https://iamcoder.tech)
-
 - 📫 How to reach me **nmtworks.7250@gmail.com**
-
-- 📄 Know about my experiences [https://iamcoder.tech/me](https://iamcoder.tech/me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
