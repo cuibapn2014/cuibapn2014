@@ -1,26 +1,49 @@
-<h1 align="center">Hi 👋, I'm Manh Tuan</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cuibapn2014&label=Profile%20views&color=0e75b6&style=flat" alt="cuibapn2014" /> </p>
+# 👨‍💻 Tuan (@cuibapn2014)
+### *Bridging the Gap Between Engineering Excellence and Business Growth*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuibapn2014" alt="cuibapn2014" /></a> </p>
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/cuibapn2014](https://github.com/cuibapn2014)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manh-tuan-nguyen-ab49a7217)
+[![Website](https://img.shields.io/badge/Ventures-nhatrototsaigon.com-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nhatrototsaigon.com)
 
-- 📫 How to reach me **nmtworks.7250@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/fakerht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fakerht" height="30" width="40" /></a>
-<a href="https://instagram.com/manhtuan.n7250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manhtuan.n7250" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 💡 The Strategic Philosophy
+I don't build software just for the sake of code. I build **systems that generate value**. My approach merges technical architecture with deep market understanding and human behavioral analysis. 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuibapn2014&show_icons=true&locale=en&layout=compact" alt="cuibapn2014" /></p>
+> *"Technology is the multiplier; business strategy is the foundation."*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuibapn2014&show_icons=true&locale=en" alt="cuibapn2014" /></p>
+## 🚀 Areas of Expertise
+* **System Architecture:** Designing scalable full-stack applications (Laravel, React, PostgreSQL).
+* **Automation Engineering:** Orchestrating complex workflows (n8n, Make.com, FFmpeg) to maximize operational efficiency.
+* **SaaS Development:** End-to-end management of digital products from MVP to production scale.
+* **Data-Driven Decision Making:** Leveraging technical analysis and user metrics to guide business development.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuibapn2014&" alt="cuibapn2014" /></p>
+## 🛠 Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | PHP (Laravel), Node.js, PostgreSQL 17 |
+| **Frontend** | React, Vue.js, TailwindCSS |
+| **Automation** | n8n, Make.com, FFmpeg (Programmable Video) |
+| **Infrastructure** | Docker, Nginx, Vultr VPS, Linux |
 
+## 📈 Featured Ventures
+### [nhatrototsaigon.com](https://nhatrototsaigon.com)
+A real estate management and connection ecosystem optimized for the Ho Chi Minh City market. 
+* **Key Focus:** SEO optimization, high-concurrency performance tuning, and intuitive card-based UI/UX.
+* **Outcome:** Improved user engagement and streamlined rental management processes.
+
+---
+
+<div align="center">
+
+### 📊 GitHub Activity
+<img src="https://github-readme-stats.vercel.app/api?username=cuibapn2014&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Tuan's GitHub Stats" />
+
+*Always learning, always building, always iterating.*
+
+</div>
